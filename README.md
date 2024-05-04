@@ -7,8 +7,7 @@
         <h3 align="center" margin="0">💬 Most used language</h3>
     </td>
 </tr>
-<tr>
-    <td valign="top" width="50%">
+
 <div align="center">
 
 ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonjaw&theme=github_dark_dimmed&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3)
@@ -16,13 +15,7 @@
 </div>
 
 </td>
-<td valign="top" width="50%">
-<div align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=samsonjaw&theme=github_dark_dimmed&show_icons=true)
-
-</div>
-</tr>
 </table>
 </div>
 <!--
