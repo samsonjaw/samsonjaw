@@ -5,8 +5,8 @@
 - 📫 How to reach me **samsonjaw1226@gmail.com**
 
 ### Language:
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![C++]([https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg))
+![Python]([https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=](https://www.python.org))
 
 
 
