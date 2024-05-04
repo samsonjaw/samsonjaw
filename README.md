@@ -8,6 +8,34 @@
 <p align="left">
 </p>
 
+
+<hr>
+
+<div align="center">
+<table width="100%">
+<tr>
+<td valign="top" width="100%">
+
+<h3 align="center" margin="0">📂 Projects</h3>
+
+</td>
+
+</tr>
+<tr>
+<td valign="top" width="100%">
+
+## Project:
+- [segment tree tool](https://github.com/samsonjaw/segment-tree)
+- [Colony Counter](https://github.com/samsonjaw/Colony-Counter)
+- [RC4](https://github.com/samsonjaw/RC4)
+- [AES](https://github.com/samsonjaw/AES)
+- [RSA](https://github.com/samsonjaw/RSA)
+- [2048-Player-Edition](https://github.com/samsonjaw/2048-Player-Edition)
+- [DQN_2048](https://github.com/samsonjaw/DQN_2048)
+
+</td>
+<td valign="top" width="100%">
+
 ## Languages:
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
