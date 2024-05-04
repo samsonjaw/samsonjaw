@@ -24,7 +24,7 @@
 <td valign="top" width="50%">
 <div align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jason810496&theme=github_dark_dimmed&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=samsonjaw&theme=github_dark_dimmed&show_icons=true)
 
 </div>
 </tr>
