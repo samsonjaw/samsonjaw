@@ -14,18 +14,18 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td valign="top" width="50%">
+      <td valign="top" width="40%">
         <h3 align="center" margin="0">Projects</h3>
       </td>
-      <td valign="top" width="25%">
+      <td valign="top" width="30%">
         <h3 align="center" margin="0">Languages</h3>
       </td>
-      <td valign="top" width="25%">
+      <td valign="top" width="30%">
         <h3 align="center" margin="0">Tools</h3>
       </td>
     </tr>
     <tr>
-      <td valign="top" width="50%">
+      <td valign="top" width="40%">
         
 - [segment tree tool](https://github.com/samsonjaw/segment-tree)
 - [Colony Counter](https://github.com/samsonjaw/Colony-Counter)
@@ -35,7 +35,7 @@
 - [2048-Player-Edition](https://github.com/samsonjaw/2048-Player-Edition)
 - [DQN_2048](https://github.com/samsonjaw/DQN_2048)
       </td>
-      <td valign="top" width="25%">
+      <td valign="top" width="30%">
         <p align="left">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -44,7 +44,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
           </a>
         </p>
-      <td valign="top" width="25%">
+      <td valign="top" width="30%">
         <p align="left">
           <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
