@@ -34,7 +34,7 @@
 - [2048-Player-Edition](https://github.com/samsonjaw/2048-Player-Edition)
 - [DQN_2048](https://github.com/samsonjaw/DQN_2048)
       </td>
-      <td valign="top" width="100%">
+      <td valign="top" width="25%">
         <p align="left">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -44,7 +44,7 @@
           </a>  
         </p>
     <tr>
-      <td valign="top" width="50%">
+      <td valign="top" width="25%">
         <p align="left">
           <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
