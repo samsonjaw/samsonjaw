@@ -1,7 +1,7 @@
-<h1 align="center">I'm samsonjaw</h1>
+<h1 align="center">About me</h1>
 <h3 align="center">A high school student who loves programming.</h3>
 
-- 📝 I regularly write articles on [https://hackmd.io/@samson-note](https://hackmd.io/@samson-note)
+- 📝 I regularly write articles on [HackMD](https://hackmd.io/@samson-note)
 
 - 📫 How to reach me **samsonjaw1226@gmail.com**
 
