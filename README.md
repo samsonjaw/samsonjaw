@@ -30,7 +30,7 @@
 - [RSA](https://github.com/samsonjaw/RSA)
 - [2048-Player-Edition](https://github.com/samsonjaw/2048-Player-Edition)
 - [DQN_2048](https://github.com/samsonjaw/DQN_2048)
-- [verilog game](https://github.com/Eason023/Dlab-Final-Project)
+- [verilog game](https://github.com/samsonjaw/Dlab-Final-Project)
 </td>
       <td valign="top" width="50%">
         <p align="left">
