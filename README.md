@@ -27,7 +27,6 @@
     <tr>
       <td valign="top" width="40%">
         
-- [segment tree tool](https://github.com/samsonjaw/segment-tree)
 - [Colony Counter](https://github.com/samsonjaw/Colony-Counter)
 - [RC4](https://github.com/samsonjaw/RC4)
 - [AES](https://github.com/samsonjaw/AES)
