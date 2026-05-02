@@ -25,7 +25,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="top" width="40%">
+      <td valign="top" width="50%">
         
 - [Colony Counter](https://github.com/samsonjaw/Colony-Counter)
 - [RC4](https://github.com/samsonjaw/RC4)
@@ -35,7 +35,7 @@
 - [DQN_2048](https://github.com/samsonjaw/DQN_2048)
 - [verilog game](https://github.com/Eason023/Dlab-Final-Project)
       </td>
-      <td valign="top" width="30%">
+      <td valign="top" width="50%">
         <p align="left">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -44,16 +44,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
           </a>
         </p>
-      <td valign="top" width="30%">
-        <p align="left">
-          <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-          </a>
-          <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-          </a>
-        </p>
-      </td>
     </tr>
 <!--
 **samsonjaw/samsonjaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
